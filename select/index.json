@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Lost Cause",
+  "base_artist": "Billie Eilish",
+  "createdAt": "2026-02-23T14:05:06.955562Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lost Cause",
+      "artist": "Monarchy",
+      "has_synced": true,
+      "path": "select/01_Lost_Cause_Monarchy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lost Cause",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/02_Lost_Cause_Beck.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lost Cause",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/03_Lost_Cause_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lost Cause",
+      "artist": "Courage My Love",
+      "has_synced": false,
+      "path": "select/04_Lost_Cause_Courage_My_Love.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lost Cause In Paradise",
+      "artist": "Wishbone Ash",
+      "has_synced": true,
+      "path": "select/05_Lost_Cause_In_Paradise_Wishbone_Ash.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lost Cause",
+      "artist": "Reel Big Fish",
+      "has_synced": true,
+      "path": "select/06_Lost_Cause_Reel_Big_Fish.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Anthem For a Lost Cause",
+      "artist": "Manic Street Preachers",
+      "has_synced": true,
+      "path": "select/07_Anthem_For_a_Lost_Cause_Manic_Street_Preachers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lost Cause",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/08_Lost_Cause_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lost Cause",
+      "artist": "Black Pistol Fire",
+      "has_synced": true,
+      "path": "select/09_Lost_Cause_Black_Pistol_Fire.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lost Cause",
+      "artist": "Novelists FR",
+      "has_synced": false,
+      "path": "select/10_Lost_Cause_Novelists_FR.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lost Cause",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/11_Lost_Cause_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lost Cause",
+      "artist": "Chris Cornell",
+      "has_synced": true,
+      "path": "select/12_Lost_Cause_Chris_Cornell.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lost Cause (Clean)",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/13_Lost_Cause_(Clean)_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lost Cause",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/14_Lost_Cause_Beck.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lost Cause",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/15_Lost_Cause_Beck.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "lost cause// (with grandson) (feat. grandson)",
+      "artist": "KennyHoopla feat. grandson",
+      "has_synced": true,
+      "path": "select/16_lost_cause__(with_grandson)_(feat._grandson)_KennyHoopla_feat._grandson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lost Cause",
+      "artist": "Billie Eilish",
+      "has_synced": false,
+      "path": "select/pl_01_Lost_Cause_Billie_Eilish.txt"
+    }
+  ]
+}
